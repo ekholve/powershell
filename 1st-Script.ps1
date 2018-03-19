@@ -5,3 +5,6 @@ Get-Process
 
 # Listaa palvelut
 Get-Service
+
+# Listaa Windows Featuret
+Get-WindowsFeature
