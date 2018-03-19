@@ -7,4 +7,5 @@ Get-Process
 Get-Service
 
 # Listaa Windows Featuret
+# Vain palvelimessa
 Get-WindowsFeature
